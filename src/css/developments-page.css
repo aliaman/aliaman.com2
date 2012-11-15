@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+div.developments-page{
+	display: none;
+}
+
+pre{
+	font-size: 12px;
+}
+
+table#dynaTest td {
+	border: 1px solid black;
+}
+
+table#dynaTest td a {
+	border: none;
+}
+
+table.dynaTestExample td{
+	vertical-align: top;
+}
+
+
+table#dynaTest {
+	margin-top: 5px;
+	border-collapse: collapse;
+}
